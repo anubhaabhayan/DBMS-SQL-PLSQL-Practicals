@@ -1,0 +1,47 @@
+DBMS-SQL-PLSQL-Practicals/
+│
+├── 📄 README.md
+│
+├── 📁 SQL/
+│   ├── 01_create_tables.sql
+│   ├── 02_insert_records.sql
+│   ├── 03_customer_details_with_amount.sql
+│   ├── 04_customers_name_ending_with_s.sql
+│   ├── 05_orders_between_amount_range.sql
+│   ├── 06_amount_increment_new_amount.sql
+│   ├── 07_order_id_total_amount.sql
+│   ├── 08_total_amount_above_15000.sql
+│   ├── 09_union_student_student1.sql
+│   ├── 10_union_all_student_student1.sql
+│   ├── 11_intersection_student_student1.sql
+│   ├── 12_inner_join_students.sql
+│   ├── 13_left_join_students.sql
+│   ├── 14_right_join_students.sql
+│   ├── 15_full_join_students.sql
+│   └── 📄 all_sql_queries.sql   (combined file)
+│
+├── 📁 PLSQL/
+│   ├── 16_total_salary_emp100.sql
+│   ├── 17_greatest_of_three_numbers.sql
+│   ├── 18_print_numbers_1_to_num.sql
+│   ├── 19_reverse_string_using_loop.sql
+│   ├── 20_sum_of_n_numbers.sql
+│   └── 📄 all_plsql_programs.sql   (combined file)
+│
+├── 📁 OUTPUT/
+│   ├── screenshots/
+│   │   ├── table_output.png
+│   │   ├── query_results.png
+│   │   ├── plsql_output.png
+│   │   └── any_additional_output.png
+│   └── sample_outputs.md
+│
+├── 📁 DOCUMENTATION/
+│   ├── Practical_File.pdf
+│   ├── Practical_File.docx
+│   └── index.md
+│
+└── 📁 EXTRA/
+    ├── student_table_sample.sql
+    ├── employee_table_sample.sql
+    └── notes.txt
